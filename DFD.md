@@ -1,3 +1,3 @@
-Updated my DFD to include proper elements on 9/14
+DFD with the manager included
 
-![alt text] (https://cloud.githubusercontent.com/assets/21320663/18523878/c5a16b72-7a7b-11e6-9549-30f4d9c97438.JPG)
+![alt text] (https://cloud.githubusercontent.com/assets/21320663/18535315/de423fac-7ab8-11e6-81d7-ffd80bf48d98.png)
