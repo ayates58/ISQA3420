@@ -18,3 +18,4 @@ Database for OSS Components - This is the database that stores the results from 
 
 Request for Packages and Licenses Report - This is a request from the manager to get a report from the OSS Database.
 
+Completed Packages and Licenses Report - This is  the report of all the packages and licenses in the OSS database that was requested by the manager.
