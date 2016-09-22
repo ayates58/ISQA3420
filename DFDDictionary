@@ -6,3 +6,7 @@ Software Package License Results - These are the results (OSS components and lic
 
 Manage Software Package for License Scanning - This is a process that really does everything for this DFD. It scans the software package for OSS components and licenses, then sends those results to the database and the developer. This process also sends the software packages to be scanned for licenses, and sends the package to be scanned for any vulnerabilities it may have.
 
+NST Vulnerability DB - This is a database that shows all of the known vulnerabilities in the Software Package.
+
+Return Known Vulnerabilities in the Package - These are the vulnerabitilies that are found in the Software Package and the results are sent back to the Developer.
+
