@@ -10,3 +10,5 @@ NST Vulnerability DB - This is a database that shows all of the known vulnerabil
 
 Return Known Vulnerabilities in the Package - These are the vulnerabitilies that are found in the Software Package and the results are sent back to the Developer.
 
+Scan for Licenses - This is a process that scans the Software Package submitted by the Developer for licenses and sends the results to the manager. 
+
