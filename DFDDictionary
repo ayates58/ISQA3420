@@ -2,5 +2,5 @@ Developer - Someone that submits software packages to be scanned for OSS compone
 
 Software Package - Software submitted by the developer to be scanned for OSS components and licenses.
 
-Manage Software Package for License Scanning - 
+Manage Software Package for License Scanning - This is a process that really does everything for this DFD. It scans the software package for OSS components and licenses, then sends those results to the database and the developer. This process also sends the software packages to be scanned for licenses, and sends the package to be scanned for any vulnerabilities it may have.
 
