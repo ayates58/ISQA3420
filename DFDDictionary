@@ -16,3 +16,5 @@ Scan Results - These are the OSS component results from the "Manage Software Pac
 
 Database for OSS Components - This is the database that stores the results from the Software Package License Scanning.
 
+Request for Packages and Licenses Report - This is a request from the manager to get a report from the OSS Database.
+
