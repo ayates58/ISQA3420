@@ -14,3 +14,5 @@ Scan for Licenses - This is a process that scans the Software Package submitted 
 
 Scan Results - These are the OSS component results from the "Manage Software Package for License Scanning" proccess going to the OSS Database.
 
+Database for OSS Components - This is the database that stores the results from the Software Package License Scanning.
+
