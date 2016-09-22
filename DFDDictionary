@@ -12,3 +12,5 @@ Return Known Vulnerabilities in the Package - These are the vulnerabitilies that
 
 Scan for Licenses - This is a process that scans the Software Package submitted by the Developer for licenses and sends the results to the manager. 
 
+Scan Results - These are the OSS component results from the "Manage Software Package for License Scanning" proccess going to the OSS Database.
+
