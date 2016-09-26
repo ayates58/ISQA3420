@@ -1,18 +1,20 @@
 Use Case #1
 
-Title:
+Title: Determine License and Vulnerability Information
 
-Primary Actor:
+Primary Actor: Manager
 
-Goal in Context:
+Goal in Context: The manager is able to see all of the software packages, licenses, and vulnerabilities from the Open Source Database. 
 
-Stakeholders:
+Stakeholders: 
+Manager - To receive clear and relevant project information
+Developer - To provide the correct software package
 
-Preconditions:
+Preconditions: Correct package/file information in the OSS Components Database and correct information is provided to the manager. 
 
-Main Success Scenario:
+Main Success Scenario: The Manager receives an accurate report on all of the software packages, licenses, and vulnerabilities for the requested project packages.
 
-Failed End Conditions:
+Failed End Conditions: Manager receives an inaccurate report on the requested project packages.
 
-Trigger:
+Trigger: Manager uploads or identifies project information to which license and vulnerability information is provided. 
 
