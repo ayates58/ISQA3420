@@ -24,8 +24,7 @@ The Manager receives an accurate report on all of the software packages, license
 ##**Failed End Conditions:** 
 Manager receives an inaccurate report on the requested project packages.
 
-##**Trigger:**
-
+##**Trigger: 
 Request for Packages and Licenses Report sent
----
+
 
