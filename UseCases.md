@@ -1,5 +1,5 @@
-Use Case #1
-
+#Use Case #1
+----
 Title: Determine License and Vulnerability Information
 
 Primary Actor: Manager
