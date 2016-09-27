@@ -16,5 +16,5 @@ Main Success Scenario: The Manager receives an accurate report on all of the sof
 
 Failed End Conditions: Manager receives an inaccurate report on the requested project packages.
 
-Trigger: Manager uploads or identifies project information to which license and vulnerability information is provided. 
+Trigger: Request for Packages and Licenses Report sent
 
