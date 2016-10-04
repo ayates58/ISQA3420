@@ -81,6 +81,7 @@ The developer send a software package that is scanned for licenses, and vulnerab
 
 ##**Stakeholders:** 
 Developer - To submit the software package and receive the results.
+
 Manager - Be able to view the scan results in the OSS components database.
 
 
