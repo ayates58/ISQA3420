@@ -70,31 +70,32 @@ The manager submits any new policies and makes the correct adjustments when nece
 #Use Case #3
 ----
 ##**Title:** 
+Software Package for License Scanning
 
 
 ##**Primary Actor:** 
-
+Developer
 
 ##**Goal in Context:** 
- 
+The developer send a software package that is scanned for licenses, and vulnerabilities with the results being sent back to the developer, but also go to the OSS components database. 
 
 ##**Stakeholders:** 
-
-
+Developer - To submit the software package and receive the results.
+Manager - Be able to view the scan results in the OSS components database.
 
 
 
 ##**Preconditions:** 
-
+The developer has the software package and submits the package to the correct scanner. 
 
 ##**Main Success Scenario:** 
-
+The software package is scanned for licenses and vulnerabilities with the results going back to the developer, and to the OSS components database so the manager can view the results as well. 
 
 
 ##**Failed End Conditions:** 
-
+The developer sends the wrong software package, the package is not successfully scanned, the results aren't sent to the developer or the database. 
 
 ##Trigger: 
-
+Developer has software package that needs to be scanned for licenses/vulnerabilities. 
 
 ----
