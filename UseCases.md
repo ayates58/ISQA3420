@@ -32,7 +32,8 @@ Request for Packages and Licenses Report sent
 
 #Use Case #2
 ----
-##**Title:** Managing the Open Source Policy Database
+##**Title:** 
+Managing the Open Source Policy Database
 
 
 ##**Primary Actor:** 
