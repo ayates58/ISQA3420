@@ -32,33 +32,33 @@ Request for Packages and Licenses Report sent
 
 #Use Case #2
 ----
-##**Title:** 
+##**Title:** Managing the Open Source Policy Database
 
 
-##**Primary Actor:** 
+##**Primary Actor:** Manager
 
 
-##**Goal in Context:** 
+##**Goal in Context:** The manager will be able to submit any policy document and modify the documents when needed. 
  
 
 ##**Stakeholders:** 
 
-
+Developer - The manager is able to update and modify the policies whenever needed.
 
 
 
 ##**Preconditions:** 
-
+Manager uploads the correct policy documents and updates the new policies. 
 
 ##**Main Success Scenario:** 
-
+The manager is able to submit new policies to the database so projects can be compared, and the manager can also modify the policies when needed. 
 
 
 ##**Failed End Conditions:** 
-
+Manager uploads the wrong document or cannot upload/modify any policies.
 
 ##Trigger: 
-
+The manager submits any new policies and makes the correct adjustments when necessary. 
 
 ----
 
