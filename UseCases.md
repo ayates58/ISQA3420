@@ -35,10 +35,12 @@ Request for Packages and Licenses Report sent
 ##**Title:** Managing the Open Source Policy Database
 
 
-##**Primary Actor:** Manager
+##**Primary Actor:** 
+Manager
 
 
-##**Goal in Context:** The manager will be able to submit any policy document and modify the documents when needed. 
+##**Goal in Context:** 
+The manager will be able to submit any policy document and modify the documents when needed. 
  
 
 ##**Stakeholders:** 
